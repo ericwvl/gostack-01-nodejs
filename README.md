@@ -1,11 +1,11 @@
-# gostack-01-nodejs
+# GoStack - Desafio 01 Conceitos Node.js
 
-GoStack - Challenge 01 - Node Concepts.js.
-GoStack - Desafio 01 - Conceitos Node.js.
+GoStack - Challenge 01 - Node Concepts.js. <br/> 
+GoStack - Desafio 01 - Conceitos Node.js. <br/> 
 
-- [Rocketseat](https://rocketseat.com.br/)
+- [Rocketseat](https://rocketseat.com.br/)  <br/> 
 
-![Image description](http://gemoob.com/github_images/gostack_01_desafio.jpg)
+![Image description](http://gemoob.com/github_images/gostack_01_desafio.jpg) <br/> <br/> 
 
 ## Getting Started
 
